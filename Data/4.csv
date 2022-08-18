@@ -1,1 +1,1 @@
-artist(name),painting(name),country(name),link to art(image),caption(text),made on(year),sold on(year),price(usd)
+artist(name),country(name),painting(name),link to art(image),caption(text),made on(year),sold on(year),price(usd)
