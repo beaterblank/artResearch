@@ -1,7 +1,7 @@
 
 ## Artists used in the document
 
-### 1 - Mohan
+### 1.csv
 
 Leonardo da Vinci
 Michelangelo
@@ -19,7 +19,7 @@ Barnett Newman
 Pierre-Auguste Renoir
 Jean-Michel Basquiat
 
-### 2 - Sriya
+### 2.csv
 
 Robert Rauschenberg
 Edward Hopper
@@ -37,7 +37,7 @@ Roy Lichtenstein
 Paul Gauguin
 Mark Rothko
 
-### 3 - Avneesh
+### 3.csv
 
 Jackson Pollock
 Amedeo Modigliani
@@ -55,7 +55,7 @@ Thomas Eakins
 Cy Twombly
 Wang Meng
 
-### 4 - bulbul
+### 4.csv
 
 Raphael
 Caravaggio
